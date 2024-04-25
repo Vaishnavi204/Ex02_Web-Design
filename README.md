@@ -19,9 +19,35 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<title>
+Ordered and Unordered list
+</title>
+</head>
+<body>
+<h1>list of flowers</h1>
+<ul>
+<li>Jasmine</li>
+<li>Rose</li>
+<li>Lily</li>
+<li>Daliya</li>
+</ul>
+<h2>list of trees</h2>
+<ol>
+<li>Banyan tree</li>
+<li>Peepal tree</li>
+<li>Mango tree</li>
+<li>Coconut tree</li>
+</ol>
+</body>
+</html>
+```
 
 ## OUTPUT
+![Screenshot (6)](https://github.com/Vaishnavi204/Ex02_Web-Design/assets/167157596/10f3246f-d469-4906-9e67-b41db31fa35c)
+
 
 
 ## RESULT
